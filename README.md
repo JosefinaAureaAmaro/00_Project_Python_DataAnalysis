@@ -7,7 +7,7 @@ Note about Repo Setup:
 I’ve set up the branches to act as folders for each category we are doing analysis for. 
 Thus, if you’d like to create a new folder/branch please feel free to do so and notify us of the changes. 
 
-##DataSet Workflow:
+## DataSet Workflow:
 We do our analysis from one dataset! I’ve found a dataset called “World Development Indicators” from the World Bank. 
 
 *Optional*
