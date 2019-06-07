@@ -17,9 +17,8 @@ Since we just entered summer maybe we can show a heat map from March to today an
 ## Actual Dataset Used
 *Dataset Docs are in the Google Drive if you're having issues*
 
-Dataset: https://datacatalog.worldbank.org/dataset/world-development-indicators
-Subject:
-Refer to doc “World_Dev_Indicators_Reviewed_Subjects.docx”
+- Dataset: https://datacatalog.worldbank.org/dataset/world-development-indicators
+- Subject: Refer to doc “World_Dev_Indicators_Reviewed_Subjects.docx”
 
 I included some other interesting indicators in case you were inspired to do further analysis. 
 As long as we keep the scope of population/GDP aka consumptions vs air_pollution then we should be good. 
