@@ -45,13 +45,13 @@ Each Subject:
 3. Statistical Correlation Graph *Optional
 
 Potential Data Visualizations:
-1. T-Test & p-value : Using a histogram to show the frequency/distribution of the values in the table [Use 07-Project-1/3/Activities/02-Ins_TTest] note: use ANOVA? instead of ttest for mlt variances
+1. T-Test & p-value : Using a histogram to show the frequency/distribution of the values in the table [Use class example: 07-Project-1/3/Activities/02-Ins_TTest] note: use ANOVA? instead of ttest for mlt variances
 This can be used to show how an industry’s growth correlates matches with air pollution
 2. Also using a scatter plot to show how pollution and population are correlated (either prove or disprove)
 3. Line graph to show pollution growth over time as GDP (whichever we decide) increases over time - agree, I like this idea. It can be the first graph we show. - Wendy
 
-## Analysis Outline <Alex>
-Branch Name: GDP_analysis <Alex>
+## Analysis Outline
+Branch Name: (GDP_analysis) Alex
 - Create a table of top 30 Countries GDP <Alex B>
 - Create a csv of top 30 countries GDP for others to use
 - Find the distribution of GDP throughout the countries 
@@ -61,7 +61,7 @@ Branch Name: GDP_analysis <Alex>
 - GDP by Country per Year (Line Graph)
   
   
- Branch Name: air_pollution <Joyce>
+ Branch Name: (air_pollution) Joyce
 - Create a csv of CO2 pollution by countries for others to use
 - Find the distribution of air pollution throughout the countries 
 - Create a new column in DF and categorize the countries into air pollution buckets (Low, Medium Low, Medium, and High) [suggestion]
@@ -69,7 +69,7 @@ Branch Name: GDP_analysis <Alex>
 - Air Pollution per Country (Bar Graph)
 - CO2 & PM.25 by Country per Year (Line Graph)
   
-Branch Name: population <Wendy>
+Branch Name:(population) Wendy
 - Create a csv of population by countries for others to use
 - Find the distribution of population throughout the countries 
 - Create a new column in DF and categorize the countries into population buckets (Low, Medium Low, Medium, and High) [suggestion]
@@ -77,7 +77,7 @@ Branch Name: population <Wendy>
 - Population per Country (Bar Graph)
 - Population Growth % by Country per Year (Line Graph)
   
-Branch Name: correlation_analysis <All>
+Branch Name: (correlation_analysis)  All
 - We can create a graph of GDP, Air Pollution and Population by Buckets 
 This will help us compare apples to apples to falsify our hypothesis
 - Summary chart of cities that have appeared in each set
