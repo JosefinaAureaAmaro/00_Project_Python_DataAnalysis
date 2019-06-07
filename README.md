@@ -15,6 +15,8 @@ We can call the OpenAQ API to make heat graph of how air pollution has changed o
 Since we just entered summer maybe we can show a heat map from March to today and call it “Seasonal Air Pollution Changes” or something like that?
 
 ## Actual Dataset Used
+*Dataset Docs are in the Google Drive if you're having issues*
+
 Dataset: https://datacatalog.worldbank.org/dataset/world-development-indicators
 Subject:
 Refer to doc “World_Dev_Indicators_Reviewed_Subjects.docx”
