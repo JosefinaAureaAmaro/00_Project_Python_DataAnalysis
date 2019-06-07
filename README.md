@@ -83,7 +83,7 @@ Create a list of top cities by columns: GDP, Air Pollution, and Population; rows
 Create a column to sum up the rows
 Use these values to create a map of which cities were in each category
 
-![Screenshot] (https://github.com/JosefinaAureaAmaro/Project_1_AirPollution_vs_GDPperCapita/blob/correlation_analysis/fig1.PNG)
+![ScreenShot] (https://github.com/JosefinaAureaAmaro/Project_1_AirPollution_vs_GDPperCapita/blob/correlation_analysis/fig1.PNG)
 The values in figure 1 will help us make conclusions based on the sum of the final column. 
 
 ##The End
