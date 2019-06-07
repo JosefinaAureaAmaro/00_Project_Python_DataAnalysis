@@ -34,9 +34,8 @@ Columns:
 - Indicator Code
 - Years (1960 thru 2018)
 
-##Objectives:
+## Objectives:
 Task List: 
-Josefina - Make API and Datasets into DF in pandas - Set to Master
 
 Each Subject: 
 1. Bar Graph - Current
@@ -47,7 +46,7 @@ Potential Data Visualizations:
 1. T-Test & p-value : Using a histogram to show the frequency/distribution of the values in the table [Use class example: 07-Project-1/3/Activities/02-Ins_TTest] note: use ANOVA? instead of ttest for mlt variances
 This can be used to show how an industry’s growth correlates matches with air pollution
 2. Also using a scatter plot to show how pollution and population are correlated (either prove or disprove)
-3. Line graph to show pollution growth over time as GDP (whichever we decide) increases over time - agree, I like this idea. It can be the first graph we show. - Wendy
+3. Line graph to show pollution growth over time as GDP (whichever we decide) increases over time
 
 ## Analysis Outline
 Branch Name: (GDP_analysis) Alex
