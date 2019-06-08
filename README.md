@@ -25,7 +25,7 @@ I included some other interesting indicators in case you were inspired to do fur
 As long as we keep the scope of population/GDP aka consumptions vs air_pollution then we should be good. 
 I included an environment component in case we wanted to show how those consequences affect biodiversity. :) (again optional)
 
-- List of Indicators:Refer to csv “WDI_list_of_reviewed_indicators.csv”
+- List of Indicators: Refer to csv “WDI_list_of_reviewed_indicators.csv”
 
 Columns: 
 - Country Name
