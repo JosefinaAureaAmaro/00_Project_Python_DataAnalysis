@@ -1,9 +1,10 @@
-Country Code,Short Name,Table Name,Long Name,2-alpha code
+ÔªøCountry Code,Short Name,Table Name,Long Name,2-alpha code
 ABW,Aruba,Aruba,Aruba,AW
 AFG,Afghanistan,Afghanistan,Islamic State of Afghanistan,AF
 AGO,Angola,Angola,People's Republic of Angola,AO
 ALB,Albania,Albania,Republic of Albania,AL
 AND,Andorra,Andorra,Principality of Andorra,AD
+ARB,Arab World,Arab World,Arab World,1A
 ARG,Argentina,Argentina,Argentine Republic,AR
 ARM,Armenia,Armenia,Republic of Armenia,AM
 ASM,American Samoa,American Samoa,American Samoa,AS
@@ -31,11 +32,12 @@ BTN,Bhutan,Bhutan,Kingdom of Bhutan,BT
 BWA,Botswana,Botswana,Republic of Botswana,BW
 CAF,Central African Republic,Central African Republic,Central African Republic,CF
 CAN,Canada,Canada,Canada,CA
+CEB,Central Europe and the Baltics,Central Europe and the Baltics,Central Europe and the Baltics,B8
 CHE,Switzerland,Switzerland,Switzerland,CH
 CHI,Channel Islands,Channel Islands,Channel Islands,
 CHL,Chile,Chile,Republic of Chile,CL
 CHN,China,China,People's Republic of China,CN
-CIV,Côte d'Ivoire,Côte d'Ivoire,Republic of Côte d'Ivoire,CI
+CIV,C√¥te d'Ivoire,C√¥te d'Ivoire,Republic of C√¥te d'Ivoire,CI
 CMR,Cameroon,Cameroon,Republic of Cameroon,CM
 COD,Dem. Rep. Congo,"Congo, Dem. Rep.",Democratic Republic of the Congo,CD
 COG,Congo,"Congo, Rep.",Republic of Congo,CG
@@ -44,7 +46,7 @@ COM,Comoros,Comoros,Union of the Comoros,KM
 CPV,Cabo Verde,Cabo Verde,Republic of Cabo Verde,CV
 CRI,Costa Rica,Costa Rica,Republic of Costa Rica,CR
 CUB,Cuba,Cuba,Republic of Cuba,CU
-CUW,Curaçao,Curaçao,Curaçao,CW
+CUW,Cura√ßao,Cura√ßao,Cura√ßao,CW
 CYM,Cayman Islands,Cayman Islands,Cayman Islands,KY
 CYP,Cyprus,Cyprus,Republic of Cyprus,CY
 CZE,Czech Republic,Czech Republic,Czech Republic,CZ
@@ -54,8 +56,11 @@ DMA,Dominica,Dominica,Commonwealth of Dominica,DM
 DNK,Denmark,Denmark,Kingdom of Denmark,DK
 DOM,Dominican Republic,Dominican Republic,Dominican Republic,DO
 DZA,Algeria,Algeria,People's Democratic Republic of Algeria,DZ
+EAS,East Asia & Pacific,East Asia & Pacific,East Asia & Pacific,Z4
+ECS,Europe & Central Asia,Europe & Central Asia,Europe & Central Asia,Z7
 ECU,Ecuador,Ecuador,Republic of Ecuador,EC
 EGY,Egypt,"Egypt, Arab Rep.",Arab Republic of Egypt,EG
+EMU,Euro area,Euro area,Euro area,XC
 ERI,Eritrea,Eritrea,State of Eritrea,ER
 ESP,Spain,Spain,Kingdom of Spain,ES
 EST,Estonia,Estonia,Republic of Estonia,EE
@@ -122,6 +127,7 @@ MCO,Monaco,Monaco,Principality of Monaco,MC
 MDA,Moldova,Moldova,Republic of Moldova,MD
 MDG,Madagascar,Madagascar,Republic of Madagascar,MG
 MDV,Maldives,Maldives,Republic of Maldives,MV
+MEA,Middle East & North Africa,Middle East & North Africa,Middle East & North Africa,ZQ
 MEX,Mexico,Mexico,United Mexican States,MX
 MHL,Marshall Islands,Marshall Islands,Republic of the Marshall Islands,MH
 MKD,North Macedonia,North Macedonia,Republic of North Macedonia,MK
@@ -136,6 +142,7 @@ MRT,Mauritania,Mauritania,Islamic Republic of Mauritania,MR
 MUS,Mauritius,Mauritius,Republic of Mauritius,MU
 MWI,Malawi,Malawi,Republic of Malawi,MW
 MYS,Malaysia,Malaysia,Malaysia,MY
+NAC,North America,North America,North America,XU
 NAM,Namibia,Namibia,Republic of Namibia,NA
 NCL,New Caledonia,New Caledonia,New Caledonia,NC
 NER,Niger,Niger,Republic of Niger,NE
@@ -159,6 +166,7 @@ PRK,Dem. People's Rep. Korea,"Korea, Dem. People's Rep.",Democratic People's Rep
 PRT,Portugal,Portugal,Portuguese Republic,PT
 PRY,Paraguay,Paraguay,Republic of Paraguay,PY
 PSE,West Bank and Gaza,West Bank and Gaza,West Bank and Gaza,PS
+PSS,Pacific island small states,Pacific island small states,Pacific island small states,S2
 PYF,French Polynesia,French Polynesia,French Polynesia,PF
 QAT,Qatar,Qatar,State of Qatar,QA
 ROU,Romania,Romania,Romania,RO
@@ -175,7 +183,9 @@ SMR,San Marino,San Marino,Republic of San Marino,SM
 SOM,Somalia,Somalia,Somali Democratic Republic,SO
 SRB,Serbia,Serbia,Republic of Serbia,RS
 SSD,South Sudan,South Sudan,Republic of South Sudan,SS
-STP,São Tomé and Principe,São Tomé and Principe,Democratic Republic of São Tomé and Principe,ST
+SSF,Sub-Saharan Africa,Sub-Saharan Africa,Sub-Saharan Africa,ZG
+SST,Small states,Small states,Small states,S1
+STP,S√£o Tom√© and Principe,S√£o Tom√© and Principe,Democratic Republic of S√£o Tom√© and Principe,ST
 SUR,Suriname,Suriname,Republic of Suriname,SR
 SVK,Slovak Republic,Slovak Republic,Slovak Republic,SK
 SVN,Slovenia,Slovenia,Republic of Slovenia,SI
@@ -202,7 +212,7 @@ URY,Uruguay,Uruguay,Oriental Republic of Uruguay,UY
 USA,United States,United States,United States of America,US
 UZB,Uzbekistan,Uzbekistan,Republic of Uzbekistan,UZ
 VCT,St. Vincent and the Grenadines,St. Vincent and the Grenadines,St. Vincent and the Grenadines,VC
-VEN,Venezuela,"Venezuela, RB",República Bolivariana de Venezuela,VE
+VEN,Venezuela,"Venezuela, RB",Rep√∫blica Bolivariana de Venezuela,VE
 VGB,British Virgin Islands,British Virgin Islands,British Virgin Islands,VG
 VIR,Virgin Islands,Virgin Islands (U.S.),Virgin Islands of the United States,VI
 VNM,Vietnam,Vietnam,Socialist Republic of Vietnam,VN
