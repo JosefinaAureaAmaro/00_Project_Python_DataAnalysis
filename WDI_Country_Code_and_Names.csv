@@ -1,4 +1,4 @@
-ÔªøCountry Code,Short Name,Table Name,Long Name,2-alpha code
+Country Code,Short Name,Table Name,Long Name,2-alpha code
 ABW,Aruba,Aruba,Aruba,AW
 AFG,Afghanistan,Afghanistan,Islamic State of Afghanistan,AF
 AGO,Angola,Angola,People's Republic of Angola,AO
@@ -29,12 +29,13 @@ BRB,Barbados,Barbados,Barbados,BB
 BRN,Brunei,Brunei Darussalam,Brunei Darussalam,BN
 BTN,Bhutan,Bhutan,Kingdom of Bhutan,BT
 BWA,Botswana,Botswana,Republic of Botswana,BW
+CAF,Central African Republic,Central African Republic,Central African Republic,CF
 CAN,Canada,Canada,Canada,CA
 CHE,Switzerland,Switzerland,Switzerland,CH
 CHI,Channel Islands,Channel Islands,Channel Islands,
 CHL,Chile,Chile,Republic of Chile,CL
 CHN,China,China,People's Republic of China,CN
-CIV,C√¥te d'Ivoire,C√¥te d'Ivoire,Republic of C√¥te d'Ivoire,CI
+CIV,Côte d'Ivoire,Côte d'Ivoire,Republic of Côte d'Ivoire,CI
 CMR,Cameroon,Cameroon,Republic of Cameroon,CM
 COD,Dem. Rep. Congo,"Congo, Dem. Rep.",Democratic Republic of the Congo,CD
 COG,Congo,"Congo, Rep.",Republic of Congo,CG
@@ -43,7 +44,7 @@ COM,Comoros,Comoros,Union of the Comoros,KM
 CPV,Cabo Verde,Cabo Verde,Republic of Cabo Verde,CV
 CRI,Costa Rica,Costa Rica,Republic of Costa Rica,CR
 CUB,Cuba,Cuba,Republic of Cuba,CU
-CUW,Cura√ßao,Cura√ßao,Cura√ßao,CW
+CUW,Curaçao,Curaçao,Curaçao,CW
 CYM,Cayman Islands,Cayman Islands,Cayman Islands,KY
 CYP,Cyprus,Cyprus,Republic of Cyprus,CY
 CZE,Czech Republic,Czech Republic,Czech Republic,CZ
@@ -158,7 +159,6 @@ PRK,Dem. People's Rep. Korea,"Korea, Dem. People's Rep.",Democratic People's Rep
 PRT,Portugal,Portugal,Portuguese Republic,PT
 PRY,Paraguay,Paraguay,Republic of Paraguay,PY
 PSE,West Bank and Gaza,West Bank and Gaza,West Bank and Gaza,PS
-PSS,Pacific island small states,Pacific island small states,Pacific island small states,S2
 PYF,French Polynesia,French Polynesia,French Polynesia,PF
 QAT,Qatar,Qatar,State of Qatar,QA
 ROU,Romania,Romania,Romania,RO
@@ -175,8 +175,7 @@ SMR,San Marino,San Marino,Republic of San Marino,SM
 SOM,Somalia,Somalia,Somali Democratic Republic,SO
 SRB,Serbia,Serbia,Republic of Serbia,RS
 SSD,South Sudan,South Sudan,Republic of South Sudan,SS
-SST,Small states,Small states,Small states,S1
-STP,S√£o Tom√© and Principe,S√£o Tom√© and Principe,Democratic Republic of S√£o Tom√© and Principe,ST
+STP,São Tomé and Principe,São Tomé and Principe,Democratic Republic of São Tomé and Principe,ST
 SUR,Suriname,Suriname,Republic of Suriname,SR
 SVK,Slovak Republic,Slovak Republic,Slovak Republic,SK
 SVN,Slovenia,Slovenia,Republic of Slovenia,SI
@@ -203,7 +202,7 @@ URY,Uruguay,Uruguay,Oriental Republic of Uruguay,UY
 USA,United States,United States,United States of America,US
 UZB,Uzbekistan,Uzbekistan,Republic of Uzbekistan,UZ
 VCT,St. Vincent and the Grenadines,St. Vincent and the Grenadines,St. Vincent and the Grenadines,VC
-VEN,Venezuela,"Venezuela, RB",Rep√∫blica Bolivariana de Venezuela,VE
+VEN,Venezuela,"Venezuela, RB",República Bolivariana de Venezuela,VE
 VGB,British Virgin Islands,British Virgin Islands,British Virgin Islands,VG
 VIR,Virgin Islands,Virgin Islands (U.S.),Virgin Islands of the United States,VI
 VNM,Vietnam,Vietnam,Socialist Republic of Vietnam,VN
