@@ -7,6 +7,7 @@
  <h2> Repository Details </h2>
  
  <p><b> Project Topic:</b> Historical Global Air Pollution Trends
+ 
  Our group's objective for this project was the use our beginner python tools to perform efficent data analysis.</p>
  
  Our motivation behind the topic was derived from our interests as a group.
