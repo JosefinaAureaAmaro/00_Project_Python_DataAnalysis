@@ -10,7 +10,7 @@
  Our group's objective for this project was the use our beginner python tools to perform efficent data analysis.</p>
  
  Our motivation behind the topic was derived from our interests as a group.
- As growing  professionals we wanted to use our analytical abilities to answer basic, first step, questions about our world:
+ To start our analysis, we wanted to answer these questions about Air Pollution and it's potiential causes:
    1. What is the current trend of air pollution?
    2. What is the magnitude of air pollution around the world  in regards metrics reviewed such as, CO2 and PM2.5?
    3. Is air pollution correlated to a country production (GDP) and/or population density?
