@@ -14,5 +14,5 @@
    1. What is the current trend of air pollution?
    2. What is the magnitude of air pollution around the world  in regards metrics reviewed such as, CO2 and PM2.5?
    3. Is air pollution correlated to a country production (GDP) and/or population density?
-   4. Once the inital analysis is complete, are there other indicators that we find to have a closely related trend?
+   4. Once the inital analysis is complete, are there other indicators that we found to have a closely related trend?
 </div>
