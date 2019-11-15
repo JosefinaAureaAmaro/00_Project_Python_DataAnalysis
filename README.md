@@ -2,7 +2,7 @@
  <a  href="https://github.com/JosefinaAureaAmaro/00_Project_Python_DataAnalysis/blob/master/Coding_bootcamp_Team14_Air_Pollution_Presentation.  pdf">
  <img src="https://github.com/JosefinaAureaAmaro/00_Project_Python_DataAnalysis/blob/master/images/readme_header_img_2.PNG"></a>
  <h2><h2/>
-
+</div>
 <div>
  <h2> Repository Details </h2>
  
@@ -14,3 +14,4 @@
    2. What is the magnitude of air pollution around the world  in regards metrics reviewed such as, CO2 and PM2.5?
    3. Is air pollution correlated to a country production (GDP) and/or population density?
    4. Can we find other metrics that correlate with the historical trend of air pollution and find something interesting?
+</div>
