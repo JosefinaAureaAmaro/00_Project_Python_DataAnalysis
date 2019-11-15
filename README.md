@@ -1,4 +1,6 @@
 <div align="center">
- <a href="https://github.com/JosefinaAureaAmaro/01_Python_Pandas/blob/master/Video_Game_Demographic_Analysis.ipynb">
- <img src="https://github.com/JosefinaAureaAmaro/01_Python_Pandas/blob/master/images/read_me_header_img.PNG"></a>
+ <a  href="https://github.com/JosefinaAureaAmaro/00_Project_Python_DataAnalysis/blob/master/Coding_bootcamp_Team14_Air_Pollution_Presentation.  pdf">
+ <img src="https://github.com/JosefinaAureaAmaro/00_Project_Python_DataAnalysis/blob/master/images/readme_header_img.PNG"></a>
+  <a href="https://github.com/JosefinaAureaAmaro/00_Project_Python_DataAnalysis/blob/master/Coding_bootcamp_Team14_Air_Pollution_Presentation.pdf">
+ <img src="https://github.com/JosefinaAureaAmaro/00_Project_Python_DataAnalysis/blob/master/images/readme_motivations_img.PNG"></a>
 </div>
