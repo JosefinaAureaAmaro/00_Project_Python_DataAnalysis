@@ -20,7 +20,7 @@
  
  <b> Contributions per Group Member are as follows:<b>
    <div align="center">
-   <img src="https://github.com/JosefinaAureaAmaro/00_Project_Python_DataAnalysis/blob/master/images/readme_header_img_2.PNG">
+   <img src="https://github.com/JosefinaAureaAmaro/00_Project_Python_DataAnalysis/blob/master/images/group_contributions.PNG">
   </div>
 
 </div>
