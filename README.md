@@ -19,7 +19,8 @@
  Throughout our analysis, each group member created visualizations based on their respective topics. 
  
  <b> Contributions per Group Member are as follows:<b>
- 
- Josefina Amaro: Data Cleansing, Verification & Standardizing for Analysis -&- High-Level Overview Analysis of All Reviewed Indicators
- 
+   <div align="center">
+   <img src="https://github.com/JosefinaAureaAmaro/00_Project_Python_DataAnalysis/blob/master/images/readme_header_img_2.PNG">
+  </div>
+
 </div>
